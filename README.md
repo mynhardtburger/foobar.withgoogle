@@ -1,5 +1,5 @@
 # foobar.withgoogle
-My solutions to the Google foobar challenges.
+My solutions to the Google foobar (https://foobar.withgoogle.com/) challenges.
 
 They represent part of my journey in teaching myself coding and algorithms.
 The solutions saved here are close to the 1st version that passed all the tests. ie. Little time has been spent to neaten or optimize the solutions.
